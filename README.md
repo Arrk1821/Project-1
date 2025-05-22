@@ -20,13 +20,19 @@ This project involves exploratory data analysis of Netflix movies using Python. 
 ## 📷 Screenshots
 
 ### 1. Top-Rated Movies
-![Top Rated]("C:\Users\arrkr\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 160147.png")
+
+
+![Screenshot 2025-05-17 160147](https://github.com/user-attachments/assets/aa1adc5b-046e-49f3-95f0-f2eddfdd08f6)
 
 ### 2. IMDb Ratings by Genre
-![Genre Ratings]("C:\Users\arrkr\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 160600.png")
+
+![Screenshot 2025-05-17 160600](https://github.com/user-attachments/assets/44fe50d0-10a1-4eb6-b588-9698fd9619af)
+
 
 ### 3. Most Voted Movies
-![Most Voted]("C:\Users\arrkr\OneDrive\Pictures\Screenshots\Screenshot 2025-05-17 160045.png")
+
+![Screenshot 2025-05-17 160045](https://github.com/user-attachments/assets/30e78028-51fa-4516-8b06-030631dd83ba)
+
 
 > 💡 *You can place your images in a folder named `screenshots/` within your GitHub repo and name them as shown above.*
 
